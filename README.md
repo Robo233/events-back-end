@@ -6,7 +6,7 @@
 5. Install Node.js from here: https://nodejs.org/en
 6. Install Laravel, using Composer: 'composer global require laravel/installer'
 7. Add the Composer's bin directory(C:\Users\YourUsername\AppData\Roaming\Composer\vendor\bin) to your system's PATH.
-8. Go to the project's directory and run the following commands, to install the dependencies:
+8. Go to the project's directory and run the following commands, to install the dependencies:  
 composer install  
 npm install  
 npm run dev  
