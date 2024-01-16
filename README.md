@@ -11,7 +11,7 @@ composer install
 npm install  
 npm run dev  
 9. Set up the enviroment file: 'copy .env.example .env'
-10. Create application key: 'php artisan key:generate
+10. Create application key: 'php artisan key:generate'
 11. Create a symbolic link to the storage: 'php artisan storage:link'
 12. Run the app: 'php artisan serve'
 '
