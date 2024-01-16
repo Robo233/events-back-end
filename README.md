@@ -14,4 +14,8 @@ npm run dev
 10. Create application key: 'php artisan key:generate'
 11. Create a symbolic link to the storage: 'php artisan storage:link'
 12. Run the app: 'php artisan serve'
- 
+## Database
+1. Install MySQL from here: https://dev.mysql.com/downloads/mysql/
+2. Log in to MySQL: 'mysql -u root -p'
+3. Create the database: 'CREATE DATABASE events;'
+4. Create the tables: Go to the Laravel project's directory and run 'php artisan migrate'
