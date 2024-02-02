@@ -1,4 +1,4 @@
-A cross-platform web app, in which the user can create different events.
+A web app, in which the user can create different events.
 
 ## For running
 1. Install PHP from here: https://www.php.net/
