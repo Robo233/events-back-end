@@ -1,3 +1,5 @@
+A cross-platform web app, in which the user can create different events.
+
 ## For running
 1. Install PHP from here: https://www.php.net/
 2. Add PHP's location to your system's PATH environment variable
